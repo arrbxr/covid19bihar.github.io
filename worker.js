@@ -1,9 +1,9 @@
 var CACHE_NAME = 'covid19bihar';
 var urlsToCache = [
-  '/',
-  '/symptoms',
-  '/prevention',
-  'faq'
+  './',
+  './symptoms',
+  './prevention',
+  '.faq'
 ];
 
 // Install a service worker
